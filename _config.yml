@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 推凯的博客 | BY Blog
+title: Kay Blog
+SEOTitle: 凯的博客 | Kay Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: 510988176@qq.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 推凯的博客, 推凯, iOS, Apple, iPhone"
+keyword: " 凯的博客, 凯, iOS, Apple, iPhone"
 url: "https://housaiyinkay.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/housaiyinkay/housaiyinkay.github.io.git" # you code repository
